@@ -8,8 +8,6 @@ Add some more description of your project here. Try to keep it short but explain
 
 <sup>If needed: Alpha/Beta version, use with care.</sup>
 
-<br>
-
 ---
 
 <h3 align="center">
