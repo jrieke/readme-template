@@ -61,4 +61,4 @@ PRs are welcome! If you want to work on any of these things, please open an issu
 
 - [ ] List a few things you want to do
 - [ ] The idea is to let people know where you are headed, so they can see if they want to help you
-- [x] ~~If an item is done, you can strike it through, so people know you already worked on it~~
+- [x] ~~If you're working on an item, you can strike it through, so people know they shouldn't start working on it~~
