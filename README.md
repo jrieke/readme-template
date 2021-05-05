@@ -1,4 +1,4 @@
-# Sample project &nbsp;🚀
+# Sample project &nbsp;👻
 
 [![Badge](https://img.shields.io/badge/add-badge-blue)](https://shields.io/)
 
