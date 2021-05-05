@@ -4,7 +4,7 @@
 
 **This one sentence explains your project in simple words.**
 
-Add some more description of your project here. Try to keep it short but explain most features. Three to four lines of text are usually good. Link to frameworks and tools that you integrate. Some more text and more text and more text and more text and more text and more text and more text and more text and more text and more text and more text and more text and more text. 
+Add some more description of your project here. Try to keep it short but explain most features. Two to four lines of text are usually good. Link to frameworks and tools that you integrate. Some more text and more text and more text and more text and more text and more text and more text and more text and more text. 
 
 <sup>If needed: Alpha/Beta version, use with care.</sup>
 
