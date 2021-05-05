@@ -1,6 +1,6 @@
 # Sample project &nbsp;🚀
 
-[![Badge](https://img.shields.io/badge/badge%20from%20-shields.io-orange)](https://shields.io/)
+[![Badge](https://img.shields.io/badge/add-badge-blue)](https://shields.io/)
 
 **This one sentence explains your project in simple words.**
 
